@@ -1,0 +1,525 @@
+{
+    "all":[
+        {
+            "id": 1,
+            "name": "casuals brown colour",
+            "image": "/images/casuals_brown.webp",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 20
+        },
+        {
+            "id": 2,
+            "name": "casuals white colour",
+            "image": "/images/casuals_white.webp",
+            "colour": "White",
+            "size": "Medium",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 10
+        },
+        {
+            "id": 3,
+            "name": "casuals grape colour",
+            "image": "/images/casuals_grape_colour.webp",
+            "colour": "Grape_Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 5
+        },
+        {
+            "id": 24,
+            "name": "casuals red colour",
+            "image": "/images/casuals_red.webp",
+            "colour": "Red",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 35,
+            "price": 25
+        },
+        {
+            "id": 4,
+            "name": "hoodie black colour",
+            "image": "/images/hoodie_black.webp",
+            "colour": "Black",
+            "size": "small",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 10
+        },
+        {
+            "id": 5,
+            "name": "hoodie blue colour",
+            "image": "/images/hoodie_blue.webp",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 15
+        },
+        {
+            "id": 6,
+            "name": "crew neck t-shirt",
+            "image": "/images/crew_neck_t-shirt.webp",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 30      
+        },
+        {
+            "id": 7,
+            "name": "long fit t-shirt",
+            "image": "/images/long_fit_t-shirt.webp",
+            "colour": "Black",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 25,
+            "price": 11
+        },
+        {
+            "id": 8,
+            "name": "mens plain t-shirt",
+            "image": "/images/mens_plain_t-shirt.jpeg",
+            "colour": "White",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 27        
+        },
+        {
+            "id": 9,
+            "name": "mens t-shirt yellow",
+            "image": "/images/mens_t-shirt_yellow.jpg",
+            "colour": "Yellow",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 35
+        },
+        {
+            "id": 10,
+            "name": "neck short t-shirt",
+            "image": "/images/neck_short_t-shirt.webp",
+            "colour": "Type of blue",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 5,
+            "price": 9        
+        },
+        {
+            "id": 11,
+            "name": "round neck t-shirt",
+            "image": "/images/round-neck_t-shirts.jpeg",
+            "colour": "Black Yellow Blue",
+            "size": "XXL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 5       
+        },
+        {
+            "id": 25,
+            "name": "t-shirt busy",
+            "image": "/images/t-shirt_busy.webp",
+            "colour": "Red",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 7
+        },
+        {
+            "id": 12,
+            "name": "leather jacket",
+            "image": "/images/leather_jacket.webp",
+            "colour": "Goldish colour",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 81
+        },
+        {
+            "id": 13,
+            "name": "outdoor jacket",
+            "image": "/images/outdoor_jacket.jpg",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 90
+        },
+        {
+            "id": 14,
+            "name": "padded jacket",
+            "image": "/images/padded_jacket.jpg",
+            "colour": "Black",
+            "size": "small",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 20        
+        },
+        {
+            "id": 15,
+            "name": "winter jackets",
+            "image": "/images/winter_jackets.webp",
+            "colour": "Skin colour",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 95
+        },
+        {
+            "id": 16,
+            "name": "beige jeans",
+            "image": "/images/beige_jeans.webp",
+            "colour": "Skin colour",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 120
+        },
+        {
+            "id": 17,
+            "name": "buffalo jeans",
+            "image": "/images/buffalo_jeans.jpg",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 17
+        },
+        {
+            "id": 18,
+            "name": "cuff jeans",
+            "image": "/images/cuff_jeans.jpg",
+            "colour": "Blue",
+            "size": "XXL",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 9
+        },
+        {
+            "id": 19,
+            "name": "custom jeans",
+            "image": "/images/custom_jeans.png",
+            "colour": "Dark blue",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 9        
+        },
+        {
+            "id": 20,
+            "name": "skinny jeans",
+            "image": "/images/skinny_jeans.jpg",
+            "colour": "Light blue",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 11
+        },
+        {
+            "id": 21,
+            "name": "slim jeans",
+            "image": "/images/slim_jeans.jpg",
+            "colour": "Brownish and blackish colour",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 15,
+            "price": 16
+        },
+        {
+            "id": 22,
+            "name": "stylish jeans",
+            "image": "/images/stylish_jeans.jpg",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 25,
+            "price": 33
+        },
+        {
+            "id": 23,
+            "name": "fur coat",
+            "image": "/images/fur_coat.jpg",
+            "colour": "Black",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 31
+        }
+    ],
+
+    "casuals": [
+        {
+            "id": 1,
+            "name": "casuals brown colour",
+            "image": "/images/casuals_brown.webp",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 20
+        },
+        {
+            "id": 2,
+            "name": "casuals white colour",
+            "image": "/images/casuals_white.webp",
+            "colour": "White",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 15,
+            "price": 10
+        },
+        {
+            "id": 3,
+            "name": "casuals grape colour",
+            "image": "/images/casuals_grape_colour.webp",
+            "colour": "Grape_Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 5
+        },
+        {
+            "id": 24,
+            "name": "casuals red colour",
+            "image": "/images/casuals_red.webp",
+            "colour": "Red",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 35,
+            "price": 25
+        }
+    ],
+
+    "hoodies": [
+        {
+            "id": 4,
+            "name": "hoodie black colour",
+            "image": "/images/hoodie_black.webp",
+            "colour": "Black",
+            "size": "small",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 10
+        },
+        {
+            "id": 5,
+            "name": "hoodie blue colour",
+            "image": "/images/hoodie_blue.webp",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 15
+        }
+    ],
+
+    "t-shirts": [
+        {
+            "id": 6,
+            "name": "crew neck t-shirt",
+            "image": "/images/crew_neck_t-shirt.webp",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 30        
+        },
+        {
+            "id": 7,
+            "name": "long fit t-shirt",
+            "image": "/images/long_fit_t-shirt.webp",
+            "colour": "Black",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 25,
+            "price": 11
+        },
+        {
+            "id": 8,
+            "name": "mens plain t-shirt",
+            "image": "/images/mens_plain_t-shirt.jpeg",
+            "colour": "White",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 27        
+        },
+        {
+            "id": 9,
+            "name": "mens t-shirt yellow",
+            "image": "/images/mens_t-shirt_yellow.jpg",
+            "colour": "Yellow",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 35
+        },
+        {
+            "id": 10,
+            "name": "neck short t-shirt",
+            "image": "/images/neck_short_t-shirt.webp",
+            "colour": "Type of blue",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 5,
+            "price": 9        
+        },
+        {
+            "id": 11,
+            "name": "round neck t-shirt",
+            "image": "/images/round-neck_t-shirts.jpeg",
+            "colour": "Black Yellow Blue",
+            "size": "XXL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 5        
+        },
+        {
+            "id": 25,
+            "name": "t-shirt busy",
+            "image": "/images/t-shirt_busy.webp",
+            "colour": "Red",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 7
+        }
+    ],
+
+    "jackets": [
+        {
+            "id": 12,
+            "name": "leather jacket",
+            "image": "/images/leather_jacket.webp",
+            "colour": "Goldish colour",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 81
+        },
+        {
+            "id": 13,
+            "name": "outdoor jacket",
+            "image": "/images/outdoor_jacket.jpg",
+            "colour": "Brown",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 90
+        },
+        {
+            "id": 14,
+            "name": "padded jacket",
+            "image": "/images/padded_jacket.jpg",
+            "colour": "Black",
+            "size": "small",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 20        
+        },
+        {
+            "id": 15,
+            "name": "winter jackets",
+            "image": "/images/winter_jackets.webp",
+            "colour": "Skin colour",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 95
+        }
+    ],
+
+    "jeans":[
+        {
+            "id": 16,
+            "name": "beige jeans",
+            "image": "/images/beige_jeans.webp",
+            "colour": "Skin colour",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 120
+        },
+        {
+            "id": 17,
+            "name": "buffalo jeans",
+            "image": "/images/buffalo_jeans.jpg",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 30,
+            "price": 17
+        },
+        {
+            "id": 18,
+            "name": "cuff jeans",
+            "image": "/images/cuff_jeans.jpg",
+            "colour": "Blue",
+            "size": "XXL",
+            "stock": "instock",
+            "availablequantity": 50,
+            "price": 9
+        },
+        {
+            "id": 19,
+            "name": "custom jeans",
+            "image": "/images/custom_jeans.png",
+            "colour": "Dark blue",
+            "size": "XL",
+            "stock": "outofstock",
+            "availablequantity": 0,
+            "price": 9        
+        },
+        {
+            "id": 20,
+            "name": "skinny jeans",
+            "image": "/images/skinny_jeans.jpg",
+            "colour": "Light blue",
+            "size": "Medium",
+            "stock": "instock",
+            "availablequantity": 10,
+            "price": 11
+        },
+        {
+            "id": 21,
+            "name": "slim jeans",
+            "image": "/images/slim_jeans.jpg",
+            "colour": "Brownish and blackish colour",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 15,
+            "price": 16
+        },
+        {
+            "id": 22,
+            "name": "stylish jeans",
+            "image": "/images/stylish_jeans.jpg",
+            "colour": "Blue",
+            "size": "XL",
+            "stock": "instock",
+            "availablequantity": 25,
+            "price": 33
+        }
+    ],
+
+    "coat":[
+        {
+            "id": 23,
+            "name": "fur coat",
+            "image": "/images/fur_coat.jpg",
+            "colour": "Black",
+            "size": "L",
+            "stock": "instock",
+            "availablequantity": 20,
+            "price": 31
+        }
+    ]
+
+    
+}
+
